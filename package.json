@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sebferrer/nodejs-mongoose-sample"
   },
   "author": "sebferrer",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/sebferrer/nodejs-mongoose-sample/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/sebferrer/nodejs-mongoose-sample#readme"
 }
