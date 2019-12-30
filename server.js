@@ -25,7 +25,3 @@ app.use(function (req, res) {
 });
 
 console.log('Sample RESTful API server started on: ' + port);
-
-function handleError(error) {
-    console.log(error);
-}

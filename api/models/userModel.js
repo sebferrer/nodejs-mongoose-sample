@@ -13,6 +13,6 @@ let UserSchema = new Schema({
         default: Date.now
     }
 },
-    { collection: 'user' });
+    { collection: 'users' });
 
 module.exports = mongoose.model('Users', UserSchema);
