@@ -4,6 +4,6 @@ NodeJS Mongoose Sample
 Build & run with:
 
 ```
-npm install
-npm start
+docker build --tag=nodejs-mongoose-sample .
+docker run --net=host nodejs-mongoose-sample
 ```
